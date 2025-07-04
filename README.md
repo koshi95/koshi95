@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Koshila</h1>
-<h3 align="center">An aspiring Software developer from Sri Lanka</h3>
+<h1 align="center">👋 Hi, I'm Koshila Balasuriya</h1>
+<h3 align="center">Driven by data. Inspired by discovery. Focused on impact</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koshi95&label=Profile%20views&color=0e75b6&style=flat" alt="koshi95" /> </p>
 
-
-# 👋 Hi, I'm Koshila Balasuriya
 
 🎓 MSc Data Science (Distinction) | 🧠 ML & Robotics Researcher | 🔬 AI for BCI & Human-Robot Interaction  
 📍 Based in the UK | Aspiring Data Scientist | Open to Research & AI Internships  
